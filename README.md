@@ -1,5 +1,5 @@
 # Sanchaar-CSOL
-Embedded MQTT broker in C Language. ** Under Developement
+Embedded MQTT broker in C Language.
 
 
 
